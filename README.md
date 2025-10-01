@@ -9,3 +9,5 @@ Ingegneria del software 2024 Code Crusaders Frontend - Servizio supporto utenti
 Le repo conteranno aluni salvataggi del lavoro
 
 Realizzazione/Ottimizzazione codice pagina Supporto, Chatta_con_noi, Form e Helpdesk (solo HTML e CSS)
+
+Link progetto: https://github.com/Mannyyy1/IngSoftwJSP
